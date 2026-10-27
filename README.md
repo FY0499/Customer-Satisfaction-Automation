@@ -13,3 +13,5 @@ Do not commit customer records, private spreadsheet IDs, or credentials. End-to-
 
 ## Project status
 This README documents the project scope and setup expectations. The workflow export must be present in the repository before it can be imported; validate the finished workflow in your own n8n instance before relying on it.
+
+<img width="414" height="237" alt="image" src="https://github.com/user-attachments/assets/27324f0b-e3d9-4ae9-bd1f-31fb5d1407a4" />
