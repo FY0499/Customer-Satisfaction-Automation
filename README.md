@@ -1,5 +1,7 @@
 # Customer Satisfaction Feedback Automation
 
+I built and tested this workflow from start to finish.
+
 I built this n8n workflow to collect customer feedback after an order is completed, analyze the customer's rating and comment, and notify the team when follow-up is needed.
 
 <img width="414" height="237" alt="Customer Satisfaction workflow demo" src="https://github.com/user-attachments/assets/27324f0b-e3d9-4ae9-bd1f-31fb5d1407a4" />
