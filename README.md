@@ -12,6 +12,15 @@ I built this n8n workflow to collect customer feedback after an order is complet
 4. The response is classified as satisfied, neutral, or dissatisfied.
 5. If follow-up is needed, the team receives a Telegram notification.
 
+## Main features
+
+- Scheduled follow-up surveys for completed orders.
+- Email-based customer feedback collection.
+- AI analysis of customer ratings and comments.
+- Customer sentiment classification (Satisfied, Neutral, or Dissatisfied).
+- Identification of responses that need follow-up.
+- Telegram notifications for the team.
+
 ## Technologies
 
 n8n, Google Sheets, Gmail, Google Gemini, Telegram, and JavaScript.
